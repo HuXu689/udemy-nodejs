@@ -1,0 +1,27 @@
+{
+  "name": "udemy-nodejs",
+  "version": "1.0.0",
+  "description": "HuXu training nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuXu689/udemy-nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "XuanHuynh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HuXu689/udemy-nodejs/issues"
+  },
+  "homepage": "https://github.com/HuXu689/udemy-nodejs#readme",
+  "dependencies": {
+    "express": "5.1.0"
+  }
+}
